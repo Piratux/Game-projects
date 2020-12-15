@@ -1,0 +1,3 @@
+--v1.01
+Capped fps at 60
+Added options.txt to configure fps and pixel size
