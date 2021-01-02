@@ -1,0 +1,12 @@
+-- V1.01
+- Capped fps at 60
+- Added options.txt to configure fps and pixel size
+
+-- V1.1
+- Added easy and normal gamemodes (previously you could only play hard mode)
+- Added manual save and load (saves score)
+- Added auto save and load (saves score)
+- Added log feature(./GameData/logs.txt logs whenever a program starts, ends or crashes)
+- Moved options.txt to ./GameData/options.txt
+- Console doesn't appear anymore on exported version
+- Added Rules menu option(game_rules.txt file should appear upon selection)

@@ -1,0 +1,40 @@
+-- How to play
+The computer generates 2-4 colour code(depending on difficulty) and your job is to guess it.
+You can choose colours on the left bottom of the board and when you're
+happy with your guess, press + button on the middle bottom.
+But pick your guesses carefully, because you only have 12 chances to guess the code!
+
+Your every guess is evaluated by the computer with 3 possible colours
+on the right of your every guess history:
+- Red colour indicates, that one secret code colour matches
+your guess's position and colour.
+- White colour indicates, that one secret code colour matches
+your guess's colour at least once, but doesn't match position.
+- Black colour indicates that secret code colour doesn't match
+any of your guess's colours.
+
+- Hard difficulty example:
+Secret code: Yellow, Red, Green, Blue
+Your guess: Red, Green, Green, Red
+Evaluation: 1 Red square, 1 White square, 2 Black squares
+
+- Example explanation: 
+Computer looks at secret code colours and compares them with your guess.
+
+- Yellow: It(computer) can't find Yellow colour in your guess
+Temporary evaluation: 0 Red, 0 White, 1 Black
+
+- Red: It sees that Red colour exists in your guess(even twice), but none of them match position
+Temporary evaluation: 0 Red, 1 White, 1 Black
+
+- Green: It sees that one Green colour matches colour and position and there is one that doesn't match position,
+but it prioritises to evaluate you with 1 Red
+Temporary evaluation: 1 Red, 1 White, 1 Black
+
+- Blue: It can't find Blue colour in your guess
+Final evaluation: 1 Red, 1 White, 2 Black
+
+This means that your guess evaluation would be displayed on the same line as your guess like this:
+Red White Black Black
+
+-- Good luck!
