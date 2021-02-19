@@ -1,0 +1,7 @@
+In the city of Poggersdorf there are 99^2 citizens. Some of the citizens are based (always saying truth), and the others are cucked (always telling lies). Houses of the city are positioned in the cells of a 99x99 grid (99^2 houses in total, 99 horizontal and vertical streets). In every house there lives only one citizen.
+
+House number has a form of (x; y), where 1 <= x <= 99 is the vertical street number, and 1 <= y <= 99 is the horizontal street number. Poggy distance between two houses with numbers of (x1; y1) and (x2; y2) is the number p = |x1 - x2| + |y1 - y2|.
+
+We know that on every street there are at least k based men who always tell the truth. Also, every citizen knows where the Pogchamp lives. You want to find his house, but you don't know how he looks like. You can go to every house and ask the guy living there: "What's the poggy distance between you and Pogchamp?"
+
+The question: what's the smallest k necessary for you to be able to always find the Pogchamp?
