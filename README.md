@@ -4,4 +4,5 @@ Master Mind history:
 - It was written purely in C(as part of C language learning experience).
 
 PogChamp history:
-- This "game" was created as a tool to help understand/solve mathematical problem which can be found here [a relative link](Pogchamp/Mathematical problem.txt)
+- This "game" was created as a tool to help understand/solve mathematical problem which can be found here
+- [a link](https://github.com/Piratux/Game-projects/blob/main/Pogchamp/Mathematical%20problem.txt)
