@@ -27,4 +27,4 @@
 - This game was made for [Global Game Jam 2021](https://globalgamejam.org/2021/games/help-me-3), together with my discord friend Pest and his buddies.
 - It was made with [Unity](https://unity.com/).
 
-![Screenshots](../Images/Help me preview.png)
+![Screenshots]("../Images/Help me preview.png")
