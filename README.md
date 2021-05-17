@@ -25,6 +25,7 @@
 
 ### [Help me](https://kevinandersson.itch.io/helpme)
 - This game was made for [Global Game Jam 2021](https://globalgamejam.org/2021/games/help-me-3), together with my discord friend Pest and his buddies.
+- Here you have to help 
 - It was made with [Unity](https://unity.com/).
 
 ![Screenshots](https://github.com/Piratux/Game-projects/blob/main/Images/Help%20me%20preview.png)
