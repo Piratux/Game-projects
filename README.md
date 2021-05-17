@@ -31,7 +31,7 @@ Here is a list of all the games that I made alone, together with someone or cont
 ## My contributions:
 
 ### [Help me](https://kevinandersson.itch.io/helpme)
-- This game was made for [Global Game Jam 2021](https://globalgamejam.org/2021/games/help-me-3), together with my discord friend Pest(programmer) and his buddies.
+- This game was made for [Global Game Jam 2021](https://globalgamejam.org/2021/games/help-me-3), together with my discord friend [Pest](https://github.com/Jukaio)(programmer) and his buddies.
 - Here you have to help a teddy bear to find his lost girlfriend in a maze, that is full of corrupted evil toys.
 - It was made with [Unity](https://unity.com/).
 ![Screenshots](/Images/Help_me_preview.png)
