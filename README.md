@@ -18,7 +18,7 @@
 - This game was made for [FlameGames](https://itch.io/jam/flamegamesjam/rate/688977) game jam, together with JoJo(artist).
 - It's a necromancer genre type where you fight an endless waves of ghosts with the mighty staff that can summon skeletons from bones.
 - It was made with [Godot](https://godotengine.org/).
-- ![Screenshots](/Images/Jack's_dreams_preview.png)
+![Screenshots](/Images/Jack's_dreams_preview.png)
 
 ### [Crusaders](https://piratux.itch.io/crusaders) (This is hosted by modd.io, so it may not always be up and running)
 - This game was made for [32+ players multiplayer](https://itch.io/jam/32-players-or-more-multiplayer-game-jam/rate/483737) game jam, together with Demogam(artist).
