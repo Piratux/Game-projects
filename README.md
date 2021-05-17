@@ -28,4 +28,4 @@
 - Here you have to help 
 - It was made with [Unity](https://unity.com/).
 
-![Screenshots](https://github.com/Piratux/Game-projects/blob/main/Images/Help%20me%20preview.png)
+![Screenshots](/Images/Help_me_preview.png)
