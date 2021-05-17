@@ -1,5 +1,5 @@
 # Game-projects
-
+Here is a list of all the games that I made alone, together with someone or contributed some parts of it.
 ## Downloadable games:
 
 ### [Master Mind](/Master%20Mind)
