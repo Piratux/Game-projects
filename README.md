@@ -5,7 +5,7 @@
 ### [Master Mind](/Master%20Mind)
 - This game was created as my 1st course uni project.
 - This is re-creation of a table game version, where you have to guess the hidden colour code with the help of hints after each guess.
-- It was made written in C with the help of [SDL2](https://www.libsdl.org/) to render graphics.
+- It was written in C with the help of [SDL2](https://www.libsdl.org/) to render graphics.
 
 ### [PogChamp](/Pogchamp)
 - This "game" was created as a tool to help understand/solve mathematical problem which can be found [here](/Pogchamp/Mathematical%20problem.txt).
