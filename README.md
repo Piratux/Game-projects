@@ -2,7 +2,7 @@
 
 ## Downloadable games:
 
-### Master Mind
+### [Master Mind](https://github.com/Piratux/Game-projects/tree/main/Master%20Mind)
 - This game was created as my 1st course uni project.
 - It was written purely in C(as part of C language learning experience).
 - It uses [SDL2](https://www.libsdl.org/) to render graphics.
