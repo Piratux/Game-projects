@@ -18,11 +18,11 @@
 - It was made with [Godot](https://godotengine.org/).
 
 ### [Crusaders](https://piratux.itch.io/crusaders) (This is hosted by modd.io, so it may not always be up and running)
-- This game was made for [32+ players multiplayer](https://itch.io/jam/32-players-or-more-multiplayer-game-jam/rate/483737) game jam.
+- This game was made for [32+ players multiplayer](https://itch.io/jam/32-players-or-more-multiplayer-game-jam/rate/483737) game jam, together with Demogam.
 - It was made with [modd.io](https://www.modd.io/)
 
 ## My contributions:
 
 ### [Help me](https://kevinandersson.itch.io/helpme)
-- This game was made for [Global Game Jam 2021](https://globalgamejam.org/2021/games/help-me-3).
+- This game was made for [Global Game Jam 2021](https://globalgamejam.org/2021/games/help-me-3), together with my discord friend Pest and his buddies.
 - It was made with [Unity](https://unity.com/).
