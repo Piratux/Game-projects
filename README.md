@@ -13,6 +13,9 @@ Here is a list of all the games that I made alone, together with someone or cont
 - It was made with [Godot](https://godotengine.org/).
 ![Screenshots](/Images/Pog_champ_preview.png)
 
+### Mage Adventure
+- In progress...
+
 ## Website games:
 
 ### [Jack's dreams](https://piratux.itch.io/jacks-dreams)
