@@ -26,7 +26,7 @@ Here is a list of all the games that I made alone, together with someone or cont
 
 ### [Crusaders](https://piratux.itch.io/crusaders) (This is hosted by modd.io, so it may not always be up and running)
 - This game was made for [32+ players multiplayer](https://itch.io/jam/32-players-or-more-multiplayer-game-jam/rate/483737) game jam, together with Demogam(artist).
-- It's an online multiplayer battle between 2 factions where the goal is to kill the king in opponent's castle before they do.
+- It's an online multiplayer battle between 2 factions where the goal is to kill the king in opponent's castle before the opposing team does.
 - Fun fact: We won this game jam and I got my very first $50 game jam prize.
 - It was made with [modd.io](https://www.modd.io/)
 ![Screenshots](/Images/Crusaders_preview.png)
